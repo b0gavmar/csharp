@@ -1,0 +1,5 @@
+J:\2024-2025\csharp\01-ismetles\01-ismtles-adattipusok\AdattipusokProjekt\AdattipusokProjekt\obj\Debug\net8.0\AdattipusokProjekt.GeneratedMSBuildEditorConfig.editorconfig
+J:\2024-2025\csharp\01-ismetles\01-ismtles-adattipusok\AdattipusokProjekt\AdattipusokProjekt\obj\Debug\net8.0\AdattipusokProjekt.AssemblyInfoInputs.cache
+J:\2024-2025\csharp\01-ismetles\01-ismtles-adattipusok\AdattipusokProjekt\AdattipusokProjekt\obj\Debug\net8.0\AdattipusokProjekt.AssemblyInfo.cs
+J:\2024-2025\csharp\01-ismetles\01-ismtles-adattipusok\AdattipusokProjekt\AdattipusokProjekt\obj\Debug\net8.0\AdattipusokProjekt.csproj.CoreCompileInputs.cache
+J:\2024-2025\csharp\01-ismetles\01-ismtles-adattipusok\AdattipusokProjekt\AdattipusokProjekt\obj\Debug\net8.0\AdattipusokProjekt.sourcelink.json
